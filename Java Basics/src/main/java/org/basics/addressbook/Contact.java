@@ -24,6 +24,7 @@ public class Contact {
     public Contact() {
     }
 
+
     public String getFirstName() {
         return firstName;
     }
@@ -102,3 +103,5 @@ public class Contact {
                 "\n}";
     }
 }
+
+
